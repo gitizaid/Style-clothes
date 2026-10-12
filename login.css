@@ -1,3 +1,93 @@
 *{
-  backgroud:grey;
+  margin:0px;
+
+}
+.heading{
+  color:#f2f2f2;
+  position:relative;
+  top:-750px;
+  left:20px;
+  font-size:40px;
+  
+  padding:10px;
+}
+.heading2{
+  color:#f2f2f2;
+  position:relative;
+  top:-750px;
+  left:70px;
+  font-size:40px;
+  
+  padding:10px;
+}
+.box{
+  background:rgb(150,100,150,0.2);
+  padding:120px;
+  position: relative;
+  top:-600px;
+  left:60px;
+  font-size:30px;
+  color:#f2f2f2;
+  border-radius: 20px;
+  
+}
+#input{
+  padding: 10px;
+  margin:10px;
+
+  background:rgb(255,255,255,0.9);
+  border:none;
+  border-radius:8px;
+  position:relative;
+  top:-670px;
+  left:70px;
+}
+#pass{
+  padding: 10px;
+  margin:10px;
+  background:#f2f2f2;
+  border:none;
+  border-radius:8px;
+  position:relative;
+  top:-670px;
+  left:70px;
+}
+.m2{
+  position: relative;
+  top:-20px;
+}
+.m3{
+  position: relative;
+  top:-30px;
+}
+.forgot{
+  position: relative;
+  top:-680px;
+  left:185px;
+  font-size:13px;
+  
+}
+a{
+  color:#f2f2f2;
+}
+#btn{
+  padding: 10px;
+  margin:10px;
+  color:#f2f2f2;
+  background:rgb(240,140,130,0.5);
+  border:none;
+  border-radius:8px;
+  font-size:15px;
+  font-weight:bold;
+  width:170px;
+  position:relative;
+  top:-680px;
+  left:85px;
+}
+.bi-person-circle {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top:-930px;
+    left:155px;
 }
